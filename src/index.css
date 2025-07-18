@@ -109,16 +109,17 @@
   }
 }
 
-body {
-  background: #e5e5e0;
-  color: black;
-  font-family: var(--font-amiamie);
-  scroll-behavior: smooth;
-  overflow-x: hidden;
-  overflow-y: hidden;
-  /* Ensures right-side scrollbar is gone */
-}
 
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  position: fixed;
+  overscroll-behavior: none;
+  touch-action: none;
+}
 
 @utility clip-path {
   clip-path: polygon(0 100%, 100% 100%, 100% 100%, 0 100%);
