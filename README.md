@@ -1,6 +1,6 @@
 # Aurielle Jewellery
 
-A modern, feature-rich jewellery e-commerce Landing page platform.
+A modern, feature rich jewellery e-commerce Landing page platform.
 
 ## Features
 
