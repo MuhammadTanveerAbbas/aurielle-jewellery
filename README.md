@@ -1,6 +1,6 @@
 # Aurielle Jewellery
 
-A modern, feature rich jewellery e-commerce Landing page platform.
+A modern, feature rich jewellery ecommerce Landing page platform.
 
 ## Features
 
@@ -54,3 +54,4 @@ This project is licensed under the MIT License.
 ---
 
 **Aurielle Jewellery** – Crafted with passion and precision.
+
