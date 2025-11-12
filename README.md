@@ -1,7 +1,7 @@
 <div align="center">
-  <h1 align="center">Aurielle Jewellery 💎 Brochure website 🌐</h1>
+  <h1 align="center">Aurielle Jewellery 💎 Brochure Website 🌐</h1>
   <p align="center">
-    A modern, feature rich <strong>jewellery ecommerce landing platform</strong> ✨ crafted with passion and precision to deliver elegant experience.
+    A modern, feature rich <strong>jewellery marketing platform</strong> ✨ crafted with passion and precision to deliver an elegant browsing experience.
   </p>
   <div align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="React logo" />
@@ -13,51 +13,55 @@
 ---
 
 ### 🧠 What is it
-**Aurielle Jewellery** is a modern, elegant **ecommerce web platform** designed for premium jewellery brands.  
-It provides a luxurious user experience, smooth interactions, and powerful admin tools all optimized for performance and scalability.
+
+**Aurielle Jewellery** is a modern, elegant **marketing website** designed for premium jewellery brands.  
+It provides a luxurious browsing experience, smooth interactions, and captivating visuals all optimized for performance and user engagement.
 
 ---
 
 ### 💡 Why it is
-E-commerce in the luxury segment demands **beauty, precision, and functionality**.  
-**Aurielle** bridges that gap combining a **visually refined design** with **robust fulls tack features** for both shoppers and administrators.
+
+Marketing in the luxury segment demands **beauty, precision, and storytelling**.  
+**Aurielle** bridges that gap by combining a **visually refined design** with **compelling content presentation** that showcases the brand's craftsmanship and heritage.
 
 ---
 
 ### ⚙️ What is the Problem
-Many jewellery websites:
-- Lack smooth user journeys and personalization  
-- Use outdated UI/UX principles  
-- Are missing secure authentication and order tracking features  
+
+Many jewellery marketing websites:
+- Lack engaging visual storytelling and brand identity  
+- Use outdated UI/UX principles that don't reflect luxury  
+- Are missing smooth navigation and interactive product showcases  
 
 ---
 
 ### 🧩 What is the Solution
+
 **Aurielle Jewellery** introduces:
 - 💎 **Responsive & elegant design** optimized for all devices  
-- 🛍️ **Interactive product catalog** with filtering & search  
-- 🔐 **JWT based authentication** for security  
-- 🛒 **Shopping cart & checkout system**  
-- 🧠 **Admin dashboard** with inventory insights  
-- 🐳 **Docker & cloud ready deployment** for scalability  
+- 🖼️ **Interactive product galleries** with rich visuals  
+- 📖 **Brand storytelling sections** highlighting craftsmanship  
+- 📱 **Mobile first approach** for seamless browsing  
+- 🎨 **Modern animations & transitions** for premium feel  
+- 📞 **Contact & inquiry forms** for customer engagement  
 
 ---
 
 ### 🚀 Result
-A complete, modern ecommerce experience that:
-- Showcases products with elegance and speed  
-- Provides seamless transactions and order tracking  
-- Offers full control to admins for sales and inventory  
-- Can scale effortlessly for real world use  
+
+A complete, modern marketing experience that:
+- Showcases jewellery collections with elegance and sophistication  
+- Builds brand trust through compelling visual narratives  
+- Engages visitors with smooth, intuitive navigation  
+- Converts interest into inquiries and showroom visits  
 
 ---
 
 ### 🛠️ Technology Used
+
 **Frontend:** React • Redux • Tailwind CSS  
-**Backend:** Node.js • Express.js  
-**Database:** MongoDB  
-**Auth:** JWT  
-**Deployment:** Docker • Vercel / Heroku  
+**Styling:** Modern CSS animations & transitions  
+**Deployment:** Vercel / Netlify  
 
 ---
 
@@ -67,20 +71,19 @@ A complete, modern ecommerce experience that:
    ```bash
    git clone https://github.com/muhammadtanveerabbas/aurielle-jewellery.git
    cd aurielle-jewellery
+   ```
 
 2. **Install dependencies**
-
    ```bash
    npm install
    ```
 
 3. **Run the development server**
-
    ```bash
    npm run dev
    ```
 
-5. **Access the app**
+4. **Access the app**
    Visit **[http://localhost:5173](http://localhost:5173)** in your browser.
 
 ---
