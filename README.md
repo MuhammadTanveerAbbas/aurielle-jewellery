@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Aurielle Jewellery 💎 Brochure Website 🌐</h1>
   <p align="center">
-    A modern, feature rich <strong>jewellery marketing platform</strong> ✨ crafted with passion and precision to deliver an elegant browsing experience.
+    A modern, feature rich <strong>jewellery marketing platform</strong> crafted with passion and precision to deliver an elegant browsing experience.
   </p>
   <div align="center">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="React logo" />
@@ -97,3 +97,4 @@ Licensed under the **MIT License** open for personal, educational, and commercia
 <div align="center">
 Designed and Developed with 💎 by <strong>Muhammad Tanveer Abbas</strong> 🌟
 </div>
+
