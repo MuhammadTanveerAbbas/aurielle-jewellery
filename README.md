@@ -1,3 +1,10 @@
+
+<div align="center">
+
+   <img src="public/images/icon.png" alt="AurielleJewelry Icon" width="100" height="100" />
+
+</div>
+
 <div align="center">
   <h1 align="center">Aurielle Jewellery 💎 Brochure Website 🌐</h1>
   <p align="center">
